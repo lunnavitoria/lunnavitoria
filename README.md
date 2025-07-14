@@ -5,9 +5,9 @@ Tenho 15 anos e estou começando minha jornada no mundo da tecnologia. Ainda est
 Bem, todo mundo começa de algum lugar. Se você também está começando ou quer trocar ideia, seja bem-vindo(a)!
 
 ### 🚀 Atualmente estou explorando:
-- 🖥️ HTML e CSS
+- 🖥️ HTML, CSS e JavaScript
 - 🤓 Java
-- 💡 Lógica de programação com Portugol e JavaScript
+- 💡 Lógica de programação com Portugol
 - 🛠️ Git e GitHub
 
 ### 📚 Projetos e estudos
@@ -20,7 +20,7 @@ Quero um dia criar projetos que ajudem pessoas e mostrar que meninas também pod
 
 ### 📫 Fale comigo!
 Se quiser acompanhar minha evolução ou conversar sobre aprender programação, estou por aqui!  
-Você pode me mandar algum email por aqui: **lunnasilva.code@gmail.com**
+Você pode me mandar algum email: **lunnasilva.code@gmail.com**
 Ou me segir no [Instagram](https://www.instagram.com/_luaa.martins/)
 ---
 
