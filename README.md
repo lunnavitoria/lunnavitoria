@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Oie! Sou a Lunna <3
 
-<!--
-**lunnavitoria/lunnavitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 15 anos e estou começando minha jornada no mundo da tecnologia. Ainda estou aprendendo, testando ferramentas e descobrindo o que mais gosto na área.
 
-Here are some ideas to get you started:
+Bem, todo mundo começa de algum lugar. Se você também está começando ou quer trocar ideia, seja bem-vindo(a)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente estou explorando:
+- 🖥️ HTML e CSS
+- 🤓 Java
+- 💡 Lógica de programação com Portugol e JavaScript
+- 🛠️ Git e GitHub
+
+### 📚 Projetos e estudos
+Ainda não tenho grandes projetos, mas aqui você pode encontrar:
+- Exercícios e desafios que estou resolvendo
+- Testes com ideias que surgem enquanto aprendo
+
+### 🎯 Sonhos e objetivos
+Quero um dia criar projetos que ajudem pessoas e mostrar que meninas também podem brilhar na área tecnologia 💪✨
+
+### 📫 Fale comigo!
+Se quiser acompanhar minha evolução ou conversar sobre aprender programação, estou por aqui!  
+Você pode me mandar algum email por aqui: **lunnasilva.code@gmail.com**
+Ou me segir no [Instagram](https://www.instagram.com/_luaa.martins/)
+---
+
+> "Não importa onde você começa, mas sim onde quer chegar." 🌱
