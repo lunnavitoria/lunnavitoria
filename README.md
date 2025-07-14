@@ -18,10 +18,9 @@ Ainda não tenho grandes projetos, mas aqui você pode encontrar:
 ### 🎯 Sonhos e objetivos
 Quero um dia criar projetos que ajudem pessoas e mostrar que meninas também podem brilhar na área tecnologia 💪✨
 
-### 📫 Fale comigo!
-Se quiser acompanhar minha evolução ou conversar sobre aprender programação, estou por aqui!  
-Você pode me mandar algum email: **lunnasilva.code@gmail.com**
-Ou me segir no [Instagram](https://www.instagram.com/_luaa.martins/)
+Se quiser acompanhar minha evolução ou conversar sobre programação:
+Você pode me mandar algum email (lunnasilva.code@gmail.com)
+ou me seguir no [Instagram](https://www.instagram.com/_luaa.martins/).
 ---
 
 > "Não importa onde você começa, mas sim onde quer chegar." 🌱
