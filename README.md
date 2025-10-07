@@ -13,9 +13,4 @@ Ainda não tenho grandes projetos, mas aqui você pode encontrar:
 - Exercícios e desafios que estou resolvendo
 - Testes com ideias que surgem enquanto aprendo
 
- [Email](mailto:lunnasilva.code@gmail.com)
- ---
- [instagram](https://www.instagram.com/_luaa.martins/)
----
-
 > "Não importa onde você começa, mas sim onde quer chegar."
